@@ -1,21 +1,17 @@
 component, qty, cost, why, source
 3d printed parts + shipping, 1, $10, to exist, https://printlegion.hackclub.com/
-pcb, 1, $12.8, to exist, https://robu.in/product/online-pcb-manufacturing-service/
+pcb, 1, $9.5, to exist, https://robu.in/product/online-pcb-manufacturing-service/
 radiomaster pocket, 1, $76.5, lowest cost elrs transmitter with 16 channels (one time purchase for all rc projects), https://fpvstore.in/product/radiomaster-pocket-radio-controller-m2-elrs/
-MicoAir 50A 4in1 ESC, 1, $36, , https://fpvstore.in/product/micoair-50a-4in1-esc/
-XIAO ESP32S3, 1, $11.5, , https://robu.in/product/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0/
-MPU6500 6-Axis Gyro, 1, $1.9, , https://robu.in/product/mpu6500-gyroscope-accelerometer-digital-motion-processor-dmp-6-axis-motion-sensor-with-i2c-spi-interface/
-A2212 2200KV 6T, 1, $16.8, , https://robocraze.com/products/a2212-2200kv-brushless-outrunner-motor-aircraft-quadcopter-helicopter
-1500mAh 30C 3S Lithium Polymer Battery Pack, 1, $16.3, , https://robu.in/product/orange-11-1v-1500mah-3s-30c-lipo-battery-pack-xt60-connector/
-5045 propellors, 4, $7.4, , https://www.amazon.in/INVENTO-Propeller-Quadcopter-Helicopter-QAV250/dp/B089Q3NCLB
-ExpressLRS RX24T 2.4G Receiver, 1, $15.7, , https://robu.in/product/expresslrs-rx24t-2-4g-receiver/
-battery straps, 2, $1.3, , https://robu.in/product/20cm-lipo-battery-strap-belt-reusable-cable-tie-wrap/
-1N5819, 1, $0.5, , https://robu.in/product/1n5819-ap-mcc-40v-1a-600mv1a-do-41-schottky-diodes-rohs/
-100nF 1206, 2, $0.5, , https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/
-2.54mm Female Header Strip, 1, $0.5, , https://robu.in/product/2-54mm-1x40-pin-female-single-row-header-strip-pack-of-10/
-2N3906, 1, $0.5, , https://robu.in/product/2n3906-ta-jcet-40v-625mw-10010ma1v-200ma-pnp-to-92-bipolar-bjt-rohs/
-3.3K Ohm 1206 Resistor, 1, $0.5, , https://robu.in/product/3-3k-ohm-1-4w-1206-resistorreel-of-5000/
-22k Ohm 1206 Resistor, 1, $0.5, , https://robu.in/product/22k-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/
-2.2K Ohm 1206 Resistor, 1, $0.5, , https://robu.in/product/2-2k-ohm-1-4w-1206-resistorreel-of-5000/
-1000uF 35v Electrolytic Capacitors, 1, $2.6, , https://www.amazon.in/Wizzo-Electrolytic-Capacitors-Electronic-Component/dp/B0CDW3J19H
-5V 3A BEC, 1, $1.3, , https://robu.in/product/ultra-small-size-dc-dc-5v-3a-bec-power-supply-buck-step-down-module/
+MicoAir 50A 4in1 ESC, 1, $35.6, control motor speed, https://fpvstore.in/product/micoair-50a-4in1-esc/
+XIAO ESP32S3, 1, $11.5, brain, https://robu.in/product/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0/
+A2212 2200KV 6T, 4, $16.8, motors, https://robocraze.com/products/a2212-2200kv-brushless-outrunner-motor-aircraft-quadcopter-helicopter
+1500mAh 30C 3S Lithium Polymer Battery Pack, 1, $14.7, power, https://probots.co.in/11-1v-2200mah-60c-3s-lipo-battery-lithium-polymer.html
+5045 propellors, 6, $3, for lift, https://probots.co.in/5045-flat-head-forward-reverse-propeller-orange-pair.html
+ExpressLRS RX24T 2.4G Receiver, 1, $15.7, to receive signals from transmitter, https://robu.in/product/expresslrs-rx24t-2-4g-receiver/
+1N5819 diode, 1, $0.5, one way power to not fry electronics, https://robu.in/product/1n5819-ap-mcc-40v-1a-600mv1a-do-41-schottky-diodes-rohs/
+100nF 1206 capacitor, 2, $0.5, to prevent surge, https://robu.in/product/100nf-1206-surface-mount-multilayer-ceramic-capacitor-pack-of-30/
+2N3906 transistor, 1, $0.5, logic gate, https://robu.in/product/2n3906-ta-jcet-40v-625mw-10010ma1v-200ma-pnp-to-92-bipolar-bjt-rohs/
+3.3K Ohm 1206 Resistor, 1, $0.5, current flow control, https://robu.in/product/3-3k-ohm-1-4w-1206-resistorreel-of-5000/
+22k Ohm 1206 Resistor, 1, $0.5, current flow contorl, https://robu.in/product/22k-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/
+2.2K Ohm 1206 Resistor, 1, $0.5, current flow control, https://robu.in/product/2-2k-ohm-1-4w-1206-resistorreel-of-5000/
+Total, -, $197, -
