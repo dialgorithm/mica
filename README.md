@@ -25,7 +25,7 @@ Designed using KiCad.
 
 | Schematic                          | PCB                    |
 | ---------------------------------- | ---------------------- |
-| ![schematic](assets/schematic.png) | ![pcb](assets/pcb.png) |
+| ![schematic](assets/schematics.png) | ![pcb](assets/pcb.png) |
 
 ## CAD
 
