@@ -1,7 +1,6 @@
 component, qty, cost, why, source
 3d printed parts + shipping, 1, $10, to exist, https://printlegion.hackclub.com/
 pcb, 1, $9.5, to exist, https://robu.in/product/online-pcb-manufacturing-service/
-radiomaster pocket, 1, $76.5, lowest cost elrs transmitter with 16 channels (one time purchase for all rc projects), https://fpvstore.in/product/radiomaster-pocket-radio-controller-m2-elrs/
 MicoAir 50A 4in1 ESC, 1, $35.6, control motor speed, https://fpvstore.in/product/micoair-50a-4in1-esc/
 XIAO ESP32S3, 1, $11.5, brain, https://robu.in/product/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0/
 A2212 2200KV 6T, 4, $16.8, motors, https://robocraze.com/products/a2212-2200kv-brushless-outrunner-motor-aircraft-quadcopter-helicopter
@@ -14,4 +13,6 @@ ExpressLRS RX24T 2.4G Receiver, 1, $15.7, to receive signals from transmitter, h
 3.3K Ohm 1206 Resistor, 1, $0.5, current flow control, https://robu.in/product/3-3k-ohm-1-4w-1206-resistorreel-of-5000/
 22k Ohm 1206 Resistor, 1, $0.5, current flow contorl, https://robu.in/product/22k-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/
 2.2K Ohm 1206 Resistor, 1, $0.5, current flow control, https://robu.in/product/2-2k-ohm-1-4w-1206-resistorreel-of-5000/
-Total, -, $197, -, -
+GEPRC Smoke Stopper, 1, $10.7, prevent burndown of everything, https://zbotic.in/product/geprc-smoke-stopper/
+MPU6050 IMU, 1, $5, position and orientation data
+Total, -, $140, -, -
